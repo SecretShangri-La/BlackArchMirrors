@@ -1,0 +1,2 @@
+# BlackArch Mirrorlist
+This unofficial mirror list is a list of mirror lists that the BlackArch development team may currently be aware of. Simply download it and comment out the appropriate server to make it work immediately!
