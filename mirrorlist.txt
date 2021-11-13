@@ -1,8 +1,7 @@
 #AT|
 #Server = http://mirror.easyname.at/blackarch/$repo/os/$arch #|easyname
 #AU|
-#Server = http://blackarch.mirror.digitalpacific.com.au/$repo/os/$arch 
-#|digitalpacific
+#Server = http://blackarch.mirror.digitalpacific.com.au/$repo/os/$arch #|digitalpacific
 #CH|
 #Server = http://mirror.easyname.ch/blackarch/$repo/os/$arch #|easyname
 #CH|
